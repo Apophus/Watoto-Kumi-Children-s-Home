@@ -1,6 +1,8 @@
-body{
+#bgImage{
     background-image: url(children.jpg);
     background-repeat: no-repeat;
+    position: fixed;
+ 
 }
 .links{
     border: 2px 2px 2px 2px solid black;
