@@ -1,0 +1,14 @@
+body{
+    background-image: url(children.jpg);
+    background-repeat: no-repeat;
+}
+.links{
+    border: 2px 2px 2px 2px solid black;
+}
+#intro{
+font-family: fantasy;
+}
+a{
+    text-decoration: none;
+    text-align:left;
+}
