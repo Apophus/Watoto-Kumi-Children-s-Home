@@ -35,3 +35,7 @@ table{
 th{
     column-span: 3;
 }
+p{
+    color: blueviolet;
+    background-color: darkgray;
+}
