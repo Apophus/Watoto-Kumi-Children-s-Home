@@ -39,3 +39,6 @@ p{
     color: blueviolet;
     background-color: darkgray;
 }
+#cspan{
+    column-span: all;
+}
